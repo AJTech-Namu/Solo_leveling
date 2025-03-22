@@ -1,3 +1,4 @@
 # Solo_leveling
-lets quick levelup
-Character Atharva Jagtap
+lets quick levelup.
+<br>
+Character-Atharva Jagtap
